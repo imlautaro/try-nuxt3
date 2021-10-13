@@ -1,0 +1,11 @@
+# NodeJS
+node_modules/
+
+# NuxtJS
+.nuxt/
+.output/
+nuxt.d.ts
+
+# General
+.env
+*.log

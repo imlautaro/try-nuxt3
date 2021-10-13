@@ -1,0 +1,14 @@
+{
+	"name": "nuxt3-template",
+	"version": "1.0.0",
+	"main": "nuxt.config.ts",
+	"license": "MIT",
+	"scripts": {
+		"dev": "nuxi dev",
+		"build": "nuxi build",
+		"start": "node .output/server/index.mjs"
+	},
+	"devDependencies": {
+		"nuxt3": "latest"
+	}
+}
